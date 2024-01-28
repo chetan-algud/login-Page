@@ -1,0 +1,52 @@
+h1{
+    text-align: center;
+    color: black;
+    background-color: aqua;
+}
+h6{
+    text-align: center;
+    color:black;
+    background-color: pink;
+    width:50px center;
+    height: 25px;
+    text-shadow: 50vb color(srgb rgb(151, 128, 128) rgb(25, 82, 25) rgb(8, 8, 61));
+}
+body{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1pc;
+    text-shadow: 50cap;
+    background-color: beige;
+    /*display: flex;*/
+    justify-content: center;
+    align-items: center;
+
+}
+.container{
+    background-color: lightblue;
+    border-radius: 15px;
+    width: 350px;
+    padding: 20px;
+    background-position: 50px;
+    
+
+}
+input{
+    width: 350px;
+    padding: 8px;
+    margin-bottom: 12px;
+    box-sizing: border-box;
+}
+button {
+    background-color: #4caf50;
+    color: #fff;
+    padding: 10px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    width: 100%;
+    margin-bottom: 8px;
+}
+
+button:hover {
+    background-color: #45a049;
+}
